@@ -70,6 +70,10 @@ p {
   opacity: 0.8;
 }
 
+#howToPlay{
+  margin-top: 1rem;
+}
+
 form {
   margin-top: 4.8rem;
   display: flex;
